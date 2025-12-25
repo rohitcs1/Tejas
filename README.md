@@ -57,7 +57,7 @@ All control methods are **real-time synchronized** using a **Raspberry Pi as the
 ## 🎥 Project Demo (Animated View)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
+  <img src="/image.png" width="500"/>
 </p>
 
 ---
