@@ -23,7 +23,7 @@ All controls are **real-time synchronized** and can be accessed **from anywhere 
 ## 🎥 Project Demo (Animation)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
+  <img src="/image.png" width="500"/>
 </p>
 
 ---
