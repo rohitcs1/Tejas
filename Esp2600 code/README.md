@@ -95,7 +95,7 @@ Electrical Appliances / Street Light
 - Raspberry Pi OS (Linux)
 - Python (GPIO Control)
 - Asterisk (IVR Call Control)
-- AI Voice Assistant (Google / Alexa)
+- AI Voice Assistant (Alexa)
 - Mobile App / Web Interface
 - GPIO Libraries
 
@@ -143,9 +143,9 @@ When a user calls the system:
 
 ## 🔗 Project Links
 
-- **GitHub Repository:** _(Add link)_  
-- **Demo Video:** _(Add YouTube link)_  
-- **MVP Link:** _(Add live link if available)_  
+- **GitHub Repository:** _(https://github.com/rohitcs1/Tejas)_  
+- **Demo Video:** _(https://youtu.be/8IX0bTO-a5U?si=BBus2j7fZMI6TCR-)_ , _(https://youtube.com/shorts/Pvy4jdjuYiU?si=gT62h2OEQ5DaPcbT)_
+- **MVP Link:** _(https://youtu.be/8IX0bTO-a5U?si=BBus2j7fZMI6TCR-)_  
 
 ---
 
